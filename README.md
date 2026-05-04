@@ -3,9 +3,6 @@
 ## Deskripsi
 Project ini menggunakan LSTM dan fitur punctuation untuk klasifikasi teks.
 
-## Dataset
-(jelasin dataset kamu di sini)
-
 ## Model
 - LSTM untuk teks
 - Dense untuk fitur punctuation
